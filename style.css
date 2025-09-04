@@ -1,0 +1,10 @@
+  body {
+  background: linear-gradient(to right, #ffffff,grey);
+}
+.extra-margin {
+  margin-top: 20rem;
+}
+h1{
+    font-size: 3rem;
+    font-weight: 700;
+}
